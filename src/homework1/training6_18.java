@@ -30,7 +30,7 @@ public class training6_18 {
 					count2++;
 			}
 		}
-		if(count1>=2&&count2>=6)
+		if(count1>=2&&count2>=8-count1)
 			System.out.println("valid password!");
 		else
 			System.out.println("invalid password!");	
