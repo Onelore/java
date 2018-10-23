@@ -1,6 +1,6 @@
 package homework1;
 
-import java.util.Arrays;
+
 import java.util.Scanner;
 
 public class training7_17 {
