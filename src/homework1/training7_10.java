@@ -29,7 +29,7 @@ public class training7_10 {
 			}
 			else if(min==array[i])
 			{
-				indexOfmin=indexOfmin+i+" ";
+				indexOfmin=indexOfmin+" "+i+"  ";
 			}
 		}
 		return indexOfmin;
